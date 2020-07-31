@@ -6,7 +6,6 @@
 * Extracted insights from training Data
 * modelling
 * Evaluation of model
-* Feature importance after model training
 
 ### problem defination: 
 the main aim of the project is to find a person is having heart disease or not on several parameters
@@ -37,8 +36,10 @@ this is a classification problem so we are using logistic regression to predict 
 we are evaluating model beyond accuracy
 
 1) roc curve and auc
+![roc curve](https://user-images.githubusercontent.com/69007287/89015903-794c6a80-d335-11ea-9e74-7e4646c8ee85.png)
 
 2) confusion matrix
+
 
 3) classification report
 
