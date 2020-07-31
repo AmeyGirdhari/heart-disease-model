@@ -8,7 +8,7 @@
 * Evaluation of model
 
 ### problem defination: 
-the main aim of the project is to find a person is having heart disease or not on several parameters
+the main aim of the project is to find if a person is having heart disease or not, based on several medical conditions
 
 ### Data:
 data is downloaded from ucl repositarory url:https://archive.ics.uci.edu/ml/datasets/heart+Disease
