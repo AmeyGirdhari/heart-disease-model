@@ -39,7 +39,7 @@ we are evaluating model beyond accuracy
 ![roc curve](https://user-images.githubusercontent.com/69007287/89015903-794c6a80-d335-11ea-9e74-7e4646c8ee85.png)
 
 2) confusion matrix
-
+![confusion matrix](https://user-images.githubusercontent.com/69007287/89016077-b7e22500-d335-11ea-8528-450c0f068512.png)
 
 3) classification report
 
