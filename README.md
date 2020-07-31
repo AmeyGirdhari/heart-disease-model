@@ -4,21 +4,22 @@
 * Problem defination
 * Dataset & terms
 * Extracted insights from training Data
-
 * Evaluation of model
 * Feature importance after model training
 
-*problem defination: 
+### problem defination: 
 the main aim of the project is to find a person is having heart disease or not on several parameters
 
-*Data:
+### Data:
 data is downloaded from ucl repositarory url:https://archive.ics.uci.edu/ml/datasets/heart+Disease
 
 data dictonary:
 
-*Extracted insights from training Data
+### Extracted insights from training Data
 
-*evaluation of the model:
+![heart disease frequency for sex](https://user-images.githubusercontent.com/69007287/89014016-887de900-d332-11ea-848a-67414130b81a.png)
+
+### evaluation of the model:
 we are evaluating model beyond accuracy
 
 roc curve and auc
