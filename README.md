@@ -27,6 +27,8 @@ data dictonary:
 ![chest pain type](https://user-images.githubusercontent.com/69007287/89014945-e7902d80-d333-11ea-8643-c658f06de505.png)
 
 
+![correlation matrix](https://user-images.githubusercontent.com/69007287/89015416-a0566c80-d334-11ea-9aed-c9c9ecbc6e6c.png)
+
 ### modelling:
 
 this is a classification problem so we are using logistic regression to predict the results
