@@ -4,6 +4,7 @@
 * Problem defination
 * Dataset & terms
 * Extracted insights from training Data
+* modelling
 * Evaluation of model
 * Feature importance after model training
 
@@ -22,17 +23,22 @@ data dictonary:
 
 ![age vs max heart rate](https://user-images.githubusercontent.com/69007287/89014554-4dc88080-d333-11ea-92ca-0d158662f065.png)
 
+
+![chest pain type](https://user-images.githubusercontent.com/69007287/89014945-e7902d80-d333-11ea-8643-c658f06de505.png)
+
+
+### modelling:
+
+this is a classification problem so we are using logistic regression to predict the results
+
 ### evaluation of the model:
 we are evaluating model beyond accuracy
 
-roc curve and auc
+1) roc curve and auc
 
-confusion matrix
+2) confusion matrix
 
-classification report
+3) classification report
 
-precision
-f1-score
-recall
 
-modelling: this is a classification problem so we are using logistic regression to predict the results
+
