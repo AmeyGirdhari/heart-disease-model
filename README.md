@@ -1,4 +1,4 @@
-# heart-disease-model
+# Heart-Disease-Prediction-model
 
 # Table of content
 * Problem defination
