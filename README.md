@@ -19,6 +19,9 @@ data dictonary:
 
 ![heart disease frequency for sex](https://user-images.githubusercontent.com/69007287/89014016-887de900-d332-11ea-848a-67414130b81a.png)
 
+
+![age vs max heart rate](https://user-images.githubusercontent.com/69007287/89014554-4dc88080-d333-11ea-92ca-0d158662f065.png)
+
 ### evaluation of the model:
 we are evaluating model beyond accuracy
 
